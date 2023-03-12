@@ -1,3 +1,4 @@
+# BANGLORE HOUSE PRICE PREDICTION
 In this Project(Banglore House Price Prediction) we will first build a model using sklearn and linear Regression using banglore home price dataset from kaggle.com.
 Second step would be to write the python flask server that uses the saved model to server http requests.
 Third components is the website built in html,css and javascript that allows user to enter home square ft area,bedroom etc
